@@ -1,0 +1,50 @@
+.main{
+    width: 800px;
+    height: 350px;
+    border: 2px solid black;
+    margin:auto;
+    margin-top: 50px;
+    padding: 50px;
+    background:rgba(0, 0,0, 0.4);
+    color: white;
+    text-align: center;
+}
+#t1{
+    color: crimson;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/gradient-numerology-background_23-2150066807.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.n{
+    font-size: 30px;
+}
+#n1{
+    height: 30px;
+    margin-left: 10px;
+}
+#res{
+    background-color:rgba(0, 0, 0, 0.4);
+}
+.ch{
+    height: 50px;
+    width: 100px;
+    background: blue;
+    color: white;
+    font-size: 10px;
+    margin-right: 30px;
+
+}
+.re{
+    height: 50px;
+    width: 100px;
+    background: blue;
+    color: white;
+    font-size: 10px;
+    margin-left: 30px;
+}
